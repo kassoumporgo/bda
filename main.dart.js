@@ -26626,8 +26626,7 @@ if(typeof print=="function"){print(a)
 return}throw"Unable to print message: "+String(a)},
 aA3(a,b){var s=0,r=A.aa(t.H),q,p
 var $async$aA3=A.ab(function(c,d){if(c===1)return A.a7(d,r)
-while(true)switch(s){case 0:window.navigator.permissions
-window.navigator.webkitPersistentStorage
+while(true)switch(s){case 0:window.navigator.webkitPersistentStorage
 q=A.aC7("data:application/octet-stream;base64,"+B.oy.gdt().by(a))
 q.target="blank"
 q.download=b
